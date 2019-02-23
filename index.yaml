@@ -2,7 +2,7 @@ url_name: string_java
 display_name: Java String
 org: EXLskills
 course: string_java
-course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/micro-course-java-string.jpg
+course_image: https://cdn-course-logos.exlskills.com/micro-course-java-string.jpg
 language: en
 est_minutes: 240
 primary_topic: Java
